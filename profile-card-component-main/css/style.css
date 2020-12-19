@@ -33,3 +33,11 @@
     margin: 0 auto;
     border-radius: 20px;
 }
+
+.card__banner {
+    height: 200px;
+    background: url('../images/bg-pattern-card.svg');
+    background-size: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
