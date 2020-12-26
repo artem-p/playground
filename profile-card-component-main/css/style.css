@@ -79,14 +79,10 @@
 .card__footer {
     border-top: solid 2px var(--grey-color);
     width: 100%;
+    display: flex;
+    justify-content: space-around;
 }
 
+.footer__element {
 
-/* .card__subheader::after {
-    content: "";
-    display: block;
-    width: 100%;
-    height: 2px;
-    background-color: var(--grey-color);
-    margin-top: 20px;
-} */
+}
