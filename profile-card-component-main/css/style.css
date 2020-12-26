@@ -82,3 +82,17 @@
     display: flex;
     justify-content: space-around;
 }
+
+.stats {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.stats__number {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.stats__text {
+    font-size: 14px;
+}
