@@ -54,6 +54,13 @@
 }
 
 .card__header {
-    margin: 80px auto;
+    margin: 80px auto 20px;
     text-align: center;
+}
+
+.card__subheader {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #7F7E83;
 }
