@@ -85,7 +85,8 @@
 
 .stats {
     text-align: center;
-    margin: 15px auto;
+    margin: 35px auto;
+    font-family: 'Kumbh Sans', sans-serif;
 }
 
 .stats__number {
@@ -95,4 +96,7 @@
 
 .stats__text {
     font-size: 14px;
+    margin-top: 10px;
+    color: var(--grey-color);
+    letter-spacing: 2px;
 }
